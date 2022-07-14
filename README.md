@@ -2,7 +2,7 @@
 ![](https://raw.githubusercontent.com/RapidFire3/RapidFire3/main/img/Gardner_Banner.png)
 
 #   🖐🏾Introduction
-Greetings everyone and welcome! My name is Jeff Gardner, and I am a computer science graduate from Grambling State University. I have worked on projects various in areas such as cryptography, augmented reality and mobile development. I have selected this space as another opportunity to learn and enhance my knowledge base by collaborating with other computer scientist and deevelopers.
+Greetings everyone and welcome! My name is Jeff Gardner, and I am a computer science graduate from Grambling State University. I have worked on projects various in areas such as cryptography, augmented reality and mobile development. I have selected this space as another opportunity to learn and enhance my knowledge base by collaborating with other computer scientist and developers.
 
 <br>
 
