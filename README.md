@@ -7,7 +7,7 @@ Greetings everyone and welcome! My name is Jeff Gardner, and I am a computer sci
 <br>
 
 #   🔭 I’m currently working on ...
-Generating sub bytes for AES algorithm.
+Steganography.
 
 <br>
 
